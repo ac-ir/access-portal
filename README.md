@@ -1,6 +1,4 @@
 
-# 🧪 Git Access Test
-
 Welcome to the gateway for joining our private research and development lab. This is our way of ensuring a high-trust, low-barrier environment for contributors.
 
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
@@ -9,7 +7,7 @@ Welcome to the gateway for joining our private research and development lab. Thi
 
 ---
 
-## Community projects
+## 🧪 Community projects
 
 | Repository       | Description                                               | Status      |
 |------------------|-----------------------------------------------------------|-------------|
